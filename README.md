@@ -102,23 +102,6 @@ The HCP-MMP1.0 parcellation is a data-driven, multi-modal atlas and does not map
 
 ---
 
-## Repository contents
-
-```
-STEROIDS/
-├── roi_statistics.py            # Main script: activation stats per ROI
-├── roi_names.py                 # Lookup tables: short code → full anatomical name
-├── make_roi_reference.py        # Generates standalone ROI reference CSV
-├── roi_statistics_nilearn.ipynb # Exploratory notebook (development reference)
-├── requirements.txt
-├── atlas/
-│   ├── hcp/                     # HCP-MMP ROI masks (360 × .nii.gz)
-│   └── suit/                    # SUIT cerebellar ROI masks (34 × .nii.gz)
-└── output/                      # Generated CSVs written here (not tracked by git)
-```
-
----
-
 ## Citation
 
 If you use STEROIDS in your work, please cite the atlases above and acknowledge this tool.
