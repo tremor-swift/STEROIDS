@@ -1,0 +1,4 @@
+nibabel>=5.0
+nilearn>=0.13
+numpy>=2.0
+pandas>=3.0
