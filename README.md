@@ -100,8 +100,3 @@ The HCP-MMP1.0 parcellation is a data-driven, multi-modal atlas and does not map
 
 **Belt auditory areas** — `LBelt`, `MBelt`, and `PBelt` (lateral, medial, and parabelt auditory cortex) represent hierarchical stages of auditory processing. Their boundaries and labels differ from some earlier parcellation schemes.
 
----
-
-## Citation
-
-If you use STEROIDS in your work, please cite the atlases above and acknowledge this tool.
